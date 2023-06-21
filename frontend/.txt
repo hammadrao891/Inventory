@@ -1,0 +1,3 @@
+changed api call in get inventiryreq
+
+frmo user to admin
